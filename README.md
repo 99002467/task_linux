@@ -1,6 +1,5 @@
 # task_linux
-
-GARBAGE COLLECTOR
+# GARBAGE COLLECTOR
 
 Execute the code using
 MAKE to run file
